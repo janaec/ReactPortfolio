@@ -26,3 +26,4 @@ function Navbar(props) {
 </Navbar>
     )
 }
+export default Navbar;
